@@ -1,2 +1,3 @@
 # CdiApp
- mobile project
+
+App project for calculate daily CDIi value
